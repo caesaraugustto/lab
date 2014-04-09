@@ -1,0 +1,3 @@
+Este programa mostra na tela o inteiro que for digitado na variavel x.
+
+De um modo mais detalhado, o programa inicializa a biblioteca stdio.h, entra na main atribuindo uma variavel do tipo inteiro "x", coleta o que foi digitado e poe na posição de memoria da variavel x e em posterior mostra na tela o conteudo armazenado na variavel x.
